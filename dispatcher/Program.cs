@@ -1,7 +1,6 @@
 using dispatcher.BLL;
 using dispatcher.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
